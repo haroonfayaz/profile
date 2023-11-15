@@ -87,8 +87,7 @@ const index = () => {
                 </Desc>
                 <TimelineSection>
                     <Timeline>
-                    Loading Soon ...
-                        {/* {education.map((education,index) => (
+                        {education.map((education,index) => (
                             <TimelineItem >
                                 <TimelineContent sx={{ py: '12px', px: 2 }}>
                                     <EducationCard education={education}/>
@@ -98,7 +97,7 @@ const index = () => {
                                     {index !== experiences.length  && <TimelineConnector style={{ background: '#854CE6' }} />}
                                 </TimelineSeparator>
                             </TimelineItem>
-                        ))} */}
+                        ))}
                     </Timeline>
 
                 </TimelineSection>
