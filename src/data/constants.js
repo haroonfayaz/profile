@@ -173,7 +173,7 @@ export const experiences = [
     id: 3,
     img:"https://media.licdn.com/dms/image/C4D0BAQH9M_iy9GTzcQ/company-logo_200_200/0/1631337703291?e=2147483647&v=beta&t=jxkIWvQ0csMrElxgdr-9TT41y_lY5rgC_mvfyWeMpW8",
     role: "System Adminstrator",
-    company:"Ia Multiventures Private Limited",
+    company:"IA Multiventures Private Limited",
     date: "Dec 2021 - Mar 2023",
     desc: "System Administrator with 1 year of experience in managing and maintaining the system's overallfunctionality, security, configuration, and user management.",
   },
