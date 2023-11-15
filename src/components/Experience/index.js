@@ -84,8 +84,7 @@ const index = () => {
                 </Desc>
                 <TimelineSection>
                     <Timeline>
-                    Loading Soon ...
-                        {/* {experiences.map((experience,index) => (
+                        {experiences.map((experience,index) => (
                             <TimelineItem>
                                 <TimelineSeparator>
                                     <TimelineDot variant="outlined" color="secondary" />
@@ -95,7 +94,7 @@ const index = () => {
                                     <ExperienceCard experience={experience}/>
                                 </TimelineContent>
                             </TimelineItem>
-                        ))} */}
+                        ))}
                     </Timeline>
 
                 </TimelineSection>
